@@ -90,7 +90,6 @@ h6 {
   font-size: 20px;
 }
 .inner {
-  border: 2px solid rgb(234, 133, 2);
   border-radius: 30px;
   overflow: hidden;
 }
@@ -985,7 +984,7 @@ body.section-switching.up .animation-block {
 }
 .portfolio-filters > li {
   display: inline-block;
-  *display: inline;
+  *   display: inline;
   *zoom: 1;
   margin-right: 25px;
 }
