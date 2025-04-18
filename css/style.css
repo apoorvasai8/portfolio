@@ -1007,6 +1007,12 @@ body.section-switching.up .animation-block {
   margin: -5px;
   overflow: visible !important;
 }
+.image-container {
+  padding: 20px;
+}
+.project_img {
+  width: 500px;
+}
 .portfolio-items > li {
   width: 33.3333%;
 }
@@ -1060,6 +1066,14 @@ body.section-switching.up .animation-block {
   -webkit-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   -moz-transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.list-item {
+  border-radius: 30px;
+  margin: 5px;
+  overflow: hidden;
+}
+.image-container {
+  overflow: hidden;
 }
 .portfolio-items > li > .inner > .overlay > .view-project {
   font-size: 18px;
