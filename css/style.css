@@ -311,8 +311,9 @@ body.border-dark .main-content:after {
 	Main Section
 =======================================================*/
 .section-main {
-  background-size: contain;
+  background-size: cover;
   background-image: url("../img/2144483.png");
+  background-repeat: none;
 }
 .section-main:before {
   content: " ";
